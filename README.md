@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my labs
-- 🌱 I’m currently learning c++
-- 🤔 I’m looking for help with website
+- 🔭 I’m currently playing dbd
+- 🤔 I’m looking for teammates
 - 💬 Ask me about anything you want
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm too picky
+- ⚡ Fun fact: i believe in necoarc supremacy
 -->
